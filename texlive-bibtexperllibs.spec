@@ -1,6 +1,6 @@
 Name:		texlive-bibtexperllibs
 Version:	57137
-Release:	1
+Release:	2
 Summary:	BibTeX Perl Libraries
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibtexperllibs
