@@ -3,7 +3,7 @@ Version:	57137
 Release:	2
 Summary:	BibTeX Perl Libraries
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibtexperllibs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bibtexperllibs
 License:	gpl1 artistic pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibtexperllibs.r%{version}.tar.xz
 Source2:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibtexperllibs.source.r%{version}.tar.xz
